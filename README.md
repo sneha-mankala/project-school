@@ -1,3 +1,5 @@
 # Project School
 
-This repository contains our project.
+Our college project.
+
+Project developed by Sowmya and Sneha.
